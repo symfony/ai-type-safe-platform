@@ -13,7 +13,6 @@ namespace Symfony\AI\Platform\Bridge\TypeSafe\Tests;
 
 use Symfony\AI\Platform\Bridge\TypeSafe\Jev;
 use Symfony\AI\Platform\Bridge\TypeSafe\ModelCatalog;
-use Symfony\AI\Platform\Capability;
 use Symfony\AI\Platform\ModelCatalog\ModelCatalogInterface;
 use Symfony\AI\Platform\Test\ModelCatalogTestCase;
 
